@@ -1,6 +1,5 @@
 
 ![Header](imgs/README-Header.png)
-This is my README base. I'm putting it together now.
 
 <table>
   <thead>
@@ -13,10 +12,10 @@ This is my README base. I'm putting it together now.
     <tr>
       <td>
         <ul>
-          <li> I'm a certified Web Developer
-          <li> I have experience working with HTML, CSS, JavaScript, MERN stack, Third Party APIs, API development, and the Bulma and Bootstrap CSS frameworks (among other things).
-          <li> My background is in team leadership, project planning, and image operations for miltinational banking corporations. 
-          <li> I like games, pixel art, and learning new things!
+          <li> I'm a certified Web Developer looking for my first junior role
+          <li> I have experience working with HTML, CSS, JavaScript, MERN stack, Third Party APIs, API development, and the Bulma and Bootstrap CSS framework (and that's not all!)
+          <li> My background is in team leadership, project planning, and imaging operations for miltinational banking corporations. 
+          <li> I like games, ttrpgs, pixel art, and learning new things!
         </ul>
       </td>
       <td>
@@ -30,6 +29,7 @@ This is my README base. I'm putting it together now.
             <img src="https://img.shields.io/badge/-Node.js-black?logo=Node.js&logoColor=339933&style=for-the-badge" alt="Node.js badge"/> 
             <img src="https://img.shields.io/badge/-GraphQL-black?logo=GraphQL&logoColor=E10098&style=for-the-badge" alt="Node.js badge"/> 
             <img src="https://img.shields.io/badge/-github-black?logo=github&logoColor=white&style=for-the-badge" alt="Node.js badge"/> 
+            <img src="https://img.shields.io/badge/Visual%20Studio%20Code-black.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
         </ul>
       </td>
     </tr>
