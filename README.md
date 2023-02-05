@@ -36,6 +36,16 @@
   </tbody>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stevengoldbergm&theme=modern-lilac)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stevengoldbergm&theme=nightowl)](https://git.io/streak-stats) 
+
+[![stevengoldbergm's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevengoldbergm)](https://github.com/anuraghazra/github-readme-stats) 
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevengoldbergm"/>
+
+
+  
+
+
 
 
