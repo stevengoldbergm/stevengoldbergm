@@ -14,7 +14,7 @@
         <ul>
           <li> I'm a certified Web Developer looking for my first role!
           <li> I have experience working with HTML, CSS, JavaScript, MERN stack, Third Party APIs, API development, the Bulma and Bootstrap CSS frameworks, and more!
-          <li> My background is in team leadership, project planning, and imaging operations for miltinational banks. 
+          <li> My background is in team leadership, project planning, and imaging operations for banks. 
           <li> I like games, ttrpgs, pixel art, and learning new things!
         </ul>
       </td>
@@ -33,4 +33,9 @@
         </ul>
       </td>
     </tr>
+  </tbody>
+</table>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=stevengoldbergm&theme=modern-lilac)](https://git.io/streak-stats)
+
 
