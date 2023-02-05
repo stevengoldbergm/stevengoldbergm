@@ -12,9 +12,9 @@
     <tr>
       <td>
         <ul>
-          <li> I'm a certified Web Developer looking for my first junior role
+          <li> I'm a certified Web Developer looking for my first role!
           <li> I have experience working with HTML, CSS, JavaScript, MERN stack, Third Party APIs, API development, and the Bulma and Bootstrap CSS framework (and that's not all!)
-          <li> My background is in team leadership, project planning, and imaging operations for miltinational banking corporations. 
+          <li> My background is in team leadership, project planning, and imaging operations for miltinational banks. 
           <li> I like games, ttrpgs, pixel art, and learning new things!
         </ul>
       </td>
