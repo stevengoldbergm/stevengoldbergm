@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
 
 ![Header](imgs/README-Header.png)
 This is my README base. I'm putting it together now.
@@ -21,7 +20,7 @@ This is my README base. I'm putting it together now.
         </ul>
       </td>
       <td>
-        <ul>
+        <ul style="list-style: none; padding: 0;">
           <li>
             <img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5&logoColor=E34F26&style=for-the-badge" alt="HTML badge"/> 
           <li>
