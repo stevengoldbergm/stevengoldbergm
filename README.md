@@ -18,10 +18,10 @@
             I have experience with HTML, CSS, JavaScript, MERN stack, Third Party APIs, API development, the Bulma and Bootstrap CSS frameworks, and more
           </li>
           <li> 
-            I'm currently learning NextJS
+            I'm currently learning C#, Azure, and MS SQL Server
           </li> 
           <li> 
-            My background is in team leadership, project planning, and imaging operations for banks
+            My background is in team leadership, project planning, and imaging operations
           </li>
           <li> 
             I like games, ttrpgs, pixel art, and learning new things!
