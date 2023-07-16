@@ -24,7 +24,7 @@
             My background is in team leadership, project planning, and imaging operations
           </li>
           <li> 
-            I like games, ttrpgs, pixel art, and learning new things!
+            I like videogames, ttrpgs, pixel art, and learning new things!
           </li>
         </ul>
       </td>
