@@ -62,9 +62,9 @@
         <!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
         </a> -->
-        <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+        <!-- <a href="https://wordpress.org" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="36" height="36" alt="WordPress" />
-        </a>
+        </a> -->
       </td>
     </tr>
   </tbody>
