@@ -18,7 +18,7 @@
             I have experience with HTML, CSS, JavaScript, MERN stack, Third Party APIs, API development, the Bulma and Bootstrap CSS frameworks, and more
           </li>
           <li> 
-            I'm currently learning C#, Azure, and MS SQL Server, and NextJS
+            I'm currently learning MS SQL Server, NextJS, and Godot
           </li> 
           <li> 
             My background is in team leadership, project planning, and imaging operations
@@ -62,8 +62,8 @@
         <!-- <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
         </a> -->
-        <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="36" height="36" alt="WordPress" />
+        <!-- <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="36" height="36" alt="WordPress" /> -->
         </a>
       </td>
     </tr>
